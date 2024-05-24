@@ -13,7 +13,15 @@ This Android Mars Rover application is built entirely using Jetpack Compose, the
 ### Future Updates
 - Unit test and UI test for app.
 - Responsive layout that adapts to different screen sizes.
+### Screenshots
+<img src="https://github.com/junaidahmed57/mars-rover/assets/32070197/1f39fcad-2ff4-4a29-9033-b8ac6657b10b" width="17%">
+<img src="https://github.com/junaidahmed57/mars-rover/assets/32070197/64e6cd61-b504-46fb-9d2f-99255958989d" width="17%" >
+<img src="https://github.com/junaidahmed57/mars-rover/assets/32070197/6b2e8891-d065-440f-b9e3-1af9a5638026" width="17%" >
+<img src="https://github.com/junaidahmed57/mars-rover/assets/32070197/a1d9a22b-0703-493c-a93e-04823aa2fc6a" width="17%" >
+
 ### Preview
+https://github.com/junaidahmed57/mars-rover/assets/32070197/73a1ca57-c1cc-484f-96a8-135046201e25
+
 
 ### Getting Started- Clone this repository to your local machine.
 - Open the project in Android Studio.
