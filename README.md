@@ -20,8 +20,7 @@ This Android Mars Rover application is built entirely using Jetpack Compose, the
 <img src="https://github.com/junaidahmed57/mars-rover/assets/32070197/a1d9a22b-0703-493c-a93e-04823aa2fc6a" width="17%" >
 
 ### Preview
-https://github.com/junaidahmed57/mars-rover/assets/32070197/73a1ca57-c1cc-484f-96a8-135046201e25
-
+https://github.com/junaidahmed57/mars-rover/assets/32070197/bf9525d5-033a-478d-adbe-ce39fa80110d
 
 ### Getting Started- Clone this repository to your local machine.
 - Open the project in Android Studio.
